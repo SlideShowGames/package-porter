@@ -1,11 +1,11 @@
 <h1>Installation</h1>
 <p>Your OS shouldn't matter as long as you have an unix OS and POSIX Shell with the required packages.
 Run the Installation script;</p>
-`chmod +x porterinstall.sh`
+<code>chmod +x porterinstall.sh</code>
 <p>then</p>
-`./porterinstall.sh`
+<code>./porterinstall.sh</code>code>
 <p></p>Finally add the script to your .bashrc or .zshrc whatever shell you use. (I  use .zshrc)</p>
-`echo  export PATH=$PATH:/home/bradix/.porter/ >> .zshrc`
+<code>echo  export PATH=$PATH:/home/bradix/.porter/ >> .zshrc`</code>
 <p>And then you're basically done</p>
 
 <h1>Why Did I make this?</h1>
