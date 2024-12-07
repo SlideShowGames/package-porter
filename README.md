@@ -4,7 +4,7 @@ Run the Installation script;</p>
 <code>chmod +x porterinstall.sh</code>
 <p>then</p>
 <code>./porterinstall.sh</code>
-<p></p>Finally add the script to your .bashrc or .zshrc whatever shell you use. (I  use .zshrc)</p>
+<p></p>Finally add the script to your .bashrc or .zshrc whatever shell you use. (I  use zsh)</p>
 <code>echo  export PATH=$PATH:/home/bradix/.porter/ >> .zshrc`</code>
 <p>And then you're basically done</p>
 
